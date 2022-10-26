@@ -3,6 +3,9 @@
 
 //-----------MINI 6-----EVEN OR ODD------------//
 
+//reviewed by val
+//works great!! :)
+
 //Description: I declared the variable (result). The user will input a number and function will define if number is odd or even with if statement using the modulus. 
 
 int result;
